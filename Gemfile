@@ -20,7 +20,7 @@ gem 'mailgun-ruby', '~>1.0.2', require: 'mailgun'
 gem 'delayed_job_active_record'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
